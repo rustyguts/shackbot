@@ -1,0 +1,2 @@
+# shackbot
+Discord bot
